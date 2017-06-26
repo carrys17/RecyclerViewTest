@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/states_item_press" android:state_pressed="true"></item>
+    <!--这个press的要放上面，不然没效果。也是醉-->
+    <item android:drawable="@color/states_item_normal"></item>
+</selector>

@@ -1,0 +1,12 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:background="@drawable/item_selector"
+             android:layout_margin="3dp"
+             android:layout_height="72dp">
+
+    <TextView
+        android:id="@+id/id_itemtx"
+        android:layout_width="72dp"
+        android:gravity="center"
+        android:layout_height="match_parent"/>
+</RelativeLayout>
